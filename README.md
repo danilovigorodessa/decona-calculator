@@ -1,1 +1,7 @@
-DECONA Instagram Calculator
+# DECONA Instagram Calculator
+
+Калькулятор ориентировочной стоимости стеклянных конструкций для Instagram-трафика.
+
+- Город: Одесса
+- Отправка заявки: WhatsApp +380674833504
+- Платформа публикации: Vercel
